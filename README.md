@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmarinho3 (secondary account)
-- 👀 I’m interested in AI, Optimization and Maths
-- 🌱 I’m currently learning machine learning and web develompent.
+- 👀 I’m interested in AI, optimization and math.
+- 🌱 I’m currently learning machine learning and web development.
 - 💞️ I’m looking to make personal projects and contribute on open source projects.
 - 📫 Principal account: @gmarinho2
 
