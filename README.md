@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gmarinho3 (secondary account)
+- 👋 Hi, I’m @gmarinho3
 - 👀 I’m interested in AI, optimization and math.
 - 🌱 I’m currently learning machine learning and web development.
 - 💞️ I’m looking to make personal projects and contribute on open source projects.
-- 📫 Principal account: @gmarinho2
+- 📫 How to contact me: gmarinho.w@gmail.com
 
 
 <!---
